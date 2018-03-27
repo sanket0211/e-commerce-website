@@ -1,0 +1,32 @@
+[04-Nov-2015 13:10:28 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shivtej1505/public_html/application/controllers/Userstuff.php on line 284
+[04-Nov-2015 13:13:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shivtej1505/public_html/application/controllers/Userstuff.php on line 284
+[04-Nov-2015 13:14:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/shivtej1505/public_html/application/controllers/Userstuff.php on line 278
+[04-Nov-2015 19:07:25 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 92
+[04-Nov-2015 19:14:36 UTC] PHP Fatal error:  Call to undefined function float() in /home/shivtej1505/public_html/application/controllers/Home.php on line 820
+[04-Nov-2015 19:15:38 UTC] PHP Parse error:  syntax error, unexpected '$get_coins' (T_VARIABLE) in /home/shivtej1505/public_html/application/controllers/Home.php on line 819
+[04-Nov-2015 19:19:22 UTC] PHP Parse error:  syntax error, unexpected '$get_coins' (T_VARIABLE) in /home/shivtej1505/public_html/application/controllers/Home.php on line 819
+[04-Nov-2015 19:19:49 UTC] PHP Parse error:  syntax error, unexpected '$get_coins' (T_VARIABLE) in /home/shivtej1505/public_html/application/controllers/Home.php on line 819
+[04-Nov-2015 19:36:34 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/shivtej1505/public_html/application/controllers/Home.php on line 856
+[06-Nov-2015 18:29:59 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/shivtej1505/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[06-Nov-2015 18:37:24 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 173
+[06-Nov-2015 20:05:33 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 173
+[06-Nov-2015 20:05:51 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 173
+[06-Nov-2015 20:06:46 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 173
+[07-Nov-2015 16:56:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:01 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:10 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:35 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:36 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:56:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[07-Nov-2015 16:57:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/shivtej1505/public_html/application/models/Unverified_User.php on line 75
+[04-Dec-2015 13:52:00 UTC] PHP Fatal error:  Call to undefined method User::changeprofilephoto() in /home/shivtej1505/public_html/application/controllers/Userstuff.php on line 171
+[04-Dec-2015 13:52:59 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 231
+[04-Dec-2015 13:55:49 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 232
+[04-Dec-2015 13:57:08 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 233
+[04-Dec-2015 13:57:31 UTC] PHP Fatal error:  Call to undefined function result() in /home/shivtej1505/public_html/application/models/User.php on line 232
+[04-Dec-2015 13:58:05 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 233
+[04-Dec-2015 13:58:35 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 232
+[04-Dec-2015 13:58:49 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/shivtej1505/public_html/application/models/User.php on line 233
